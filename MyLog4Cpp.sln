@@ -1,0 +1,33 @@
+﻿Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyLog4Cpp", "MyLog4Cpp.vcproj", "{0BA627CE-C957-495D-8942-168A25F74228}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Log4CppClient", "..\Log4CppClient\Log4CppClient.vcproj", "{F4BFB18F-1867-4E70-BE15-29573703D215}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BA627CE-C957-495D-8942-168A25F74228}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0BA627CE-C957-495D-8942-168A25F74228}.Debug|Win32.Build.0 = Debug|Win32
+		{0BA627CE-C957-495D-8942-168A25F74228}.Release|Win32.ActiveCfg = Release|Win32
+		{0BA627CE-C957-495D-8942-168A25F74228}.Release|Win32.Build.0 = Release|Win32
+		{F4BFB18F-1867-4E70-BE15-29573703D215}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F4BFB18F-1867-4E70-BE15-29573703D215}.Debug|Win32.Build.0 = Debug|Win32
+		{F4BFB18F-1867-4E70-BE15-29573703D215}.Release|Win32.ActiveCfg = Release|Win32
+		{F4BFB18F-1867-4E70-BE15-29573703D215}.Release|Win32.Build.0 = Release|Win32
+		{3221523E-5843-432C-924F-99B2A50DE5F8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3221523E-5843-432C-924F-99B2A50DE5F8}.Debug|Win32.Build.0 = Debug|Win32
+		{3221523E-5843-432C-924F-99B2A50DE5F8}.Release|Win32.ActiveCfg = Release|Win32
+		{3221523E-5843-432C-924F-99B2A50DE5F8}.Release|Win32.Build.0 = Release|Win32
+		{9E867C1F-399C-4287-8B33-A8B4D7AA2690}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9E867C1F-399C-4287-8B33-A8B4D7AA2690}.Debug|Win32.Build.0 = Debug|Win32
+		{9E867C1F-399C-4287-8B33-A8B4D7AA2690}.Release|Win32.ActiveCfg = Release|Win32
+		{9E867C1F-399C-4287-8B33-A8B4D7AA2690}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
